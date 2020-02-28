@@ -1,0 +1,9 @@
+﻿{
+  "allure": {
+    "directory": "C:\\Users\\AAPonomarev\\source\\repos\\UnitTestProject1\\allurelogs\\",
+    "links": [
+      "https://example.org/{issue}",
+      "https://example.org/{tms}"
+    ]
+  }
+}
